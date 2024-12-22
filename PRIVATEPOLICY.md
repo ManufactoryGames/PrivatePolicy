@@ -1,7 +1,7 @@
-# PrivatePolicy
-Private Policy
+# PrivacyPolicy
+Privacy Policy
 
-=Manufactory Private Policy For Google Play Applications=
+=Manufactory Privacy Policy For Google Play Applications=
 
 Hereby, explains what info Manufactory collects when you visit or use its applications located in Google Play.
 
